@@ -1,8 +1,9 @@
 {
-  "name": "dizainas-yoga",
+  "name": "yoga-dizainas",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "dev":"dead-server --host=localhost --port=4502",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Modestas (https://github.com/MAndrulis)",
