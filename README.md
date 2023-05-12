@@ -70,7 +70,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-MAndrulis: [Github](https://github.com/MAndrulis)
+MAndrulis: [Github] (https://github.com/MAndrulis)
 
 ## ⚠️ License
 
