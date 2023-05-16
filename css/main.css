@@ -22,11 +22,6 @@ body {
     height: 40px;
 }
 
-.main-nav {
-    gap: 15px;
-    display: flex;
-}
-
 .main-menu {
     display: flex;
     gap: 15px;
@@ -36,11 +31,15 @@ body {
     font-size: 19px;
     text-decoration: none;
     color: black;
+    border-bottom: 3px solid transparent;
 }
 
 .menu-link:hover {
-    background-color: gray;
-    text-decoration: underline;
+    border-bottom-color: #ff4622;
+}
+
+.active {
+    border-bottom-color:#ff4622 ;
 }
 
 /* MAIN CONTENT */
@@ -49,7 +48,7 @@ body {
 }
 
 .main-title {
-    font-size: 36px;
+    font-size: 37px;
     font-weight: normal;
 }
 
